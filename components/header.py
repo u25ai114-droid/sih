@@ -34,10 +34,10 @@ def render_header(risk_summary: dict, data_mode: str = "Live Monitoring"):
                 <div style="font-size: 2.2rem;">🛰️</div>
                 <div>
                     <div class="nexora-brand-title">
-                        NEXORA <span style="font-size: 0.85rem; font-weight: 500; color: #94a3b8; letter-spacing: 0.05em;">| DISASTER INTELLIGENCE CENTER</span>
+                        BHUPULSE <span style="font-size: 0.85rem; font-weight: 500; color: #94a3b8; letter-spacing: 0.05em;">| DISASTER INTELLIGENCE CENTER</span>
                     </div>
                     <div class="nexora-brand-subtitle">
-                        AIZAWL DISTRICT, MIZORAM • GEOSPATIAL EARLY WARNING & RISK MATRIX
+                        sense. predict. protect
                     </div>
                 </div>
             </div>
