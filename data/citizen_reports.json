@@ -1,0 +1,62 @@
+[
+  {
+    "id": "REP-20260911-F60AFE",
+    "image_path": "",
+    "latitude": 23.9,
+    "longitude": 92.6963,
+    "gps_accuracy_m": 6.5,
+    "timestamp": "2026-09-11T01:23:39.299201+05:30",
+    "report_type": "Waterlogging",
+    "description": "waterlogged on road",
+    "status": "Pending Verification",
+    "nearest_zone_id": "AIZ_GRID_057_23.824999_92.725004",
+    "distance_to_zone_m": 8835.8,
+    "zone_risk_level": "MODERATE",
+    "zone_probability": 0.3407864204932471
+  },
+  {
+    "id": "REP-2026-AIZ-001",
+    "image_path": "data/citizen_uploads/seed_crack_chaltlang.jpg",
+    "latitude": 23.7428,
+    "longitude": 92.7185,
+    "gps_accuracy_m": 6.5,
+    "timestamp": "2026-09-10T14:22:00+05:30",
+    "report_type": "Road crack",
+    "description": "Deep transverse tensile cracks developing across Chaltlang Road after heavy continuous downpour.",
+    "status": "Verified Ground Hazard",
+    "nearest_zone_id": "AIZ_GRID_040_23.738575_92.694194",
+    "distance_to_zone_m": 480.0,
+    "zone_risk_level": "HIGH",
+    "zone_probability": 0.507
+  },
+  {
+    "id": "REP-2026-AIZ-002",
+    "image_path": "data/citizen_uploads/seed_debris_bawngkawn.jpg",
+    "latitude": 23.7512,
+    "longitude": 92.7304,
+    "gps_accuracy_m": 8.0,
+    "timestamp": "2026-09-10T16:45:00+05:30",
+    "report_type": "Soil movement",
+    "description": "Retaining wall deformation and minor mud displacement on slope above residential houses in Bawngkawn.",
+    "status": "Pending Verification",
+    "nearest_zone_id": "AIZ_GRID_040_23.738889_92.696389",
+    "distance_to_zone_m": 1250.0,
+    "zone_risk_level": "HIGH",
+    "zone_probability": 0.528
+  },
+  {
+    "id": "REP-2026-AIZ-003",
+    "image_path": "data/citizen_uploads/seed_rockfall_durtlang.jpg",
+    "latitude": 23.7745,
+    "longitude": 92.739,
+    "gps_accuracy_m": 5.2,
+    "timestamp": "2026-09-10T18:10:00+05:30",
+    "report_type": "Rockfall",
+    "description": "Boulders and loose scree dislodged onto Durtlang main ridge road, partially obstructing one lane.",
+    "status": "Verified Ground Hazard",
+    "nearest_zone_id": "AIZ_GRID_040_23.740278_92.697222",
+    "distance_to_zone_m": 3100.0,
+    "zone_risk_level": "CRITICAL",
+    "zone_probability": 0.785
+  }
+]
