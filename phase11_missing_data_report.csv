@@ -1,0 +1,11 @@
+grid_id,run_timestamp,as_of_date,reason
+AIZ_GRID_070,2026-09-10T16:20:31.320746,2026-09-10,"Fetch failed for grid AIZ_GRID_070 at (23.87980142857143,92.86349271428571): HTTPSConnectionPool(host='api.open-meteo.com', port=443): Read timed out. (read timeout=15)"
+AIZ_GRID_111,2026-09-10T16:20:31.320752,2026-09-10,"Fetch failed for grid AIZ_GRID_111 at (24.178763500000002,92.9374605): HTTPSConnectionPool(host='api.open-meteo.com', port=443): Read timed out. (read timeout=15)"
+AIZ_GRID_116,2026-09-10T16:20:31.320754,2026-09-10,"Fetch failed for grid AIZ_GRID_116 at (24.282961333333333,92.93900366666666): HTTPSConnectionPool(host='api.open-meteo.com', port=443): Read timed out. (read timeout=15)"
+AIZ_GRID_117,2026-09-10T16:20:31.320755,2026-09-10,"Fetch failed for grid AIZ_GRID_117 at (24.273194,92.967502): HTTPSConnectionPool(host='api.open-meteo.com', port=443): Read timed out. (read timeout=15)"
+AIZ_GRID_122,2026-09-10T16:20:31.320757,2026-09-10,"Fetch failed for grid AIZ_GRID_122 at (24.365123999999998,92.92688400000002): HTTPSConnectionPool(host='api.open-meteo.com', port=443): Read timed out. (read timeout=15)"
+AIZ_GRID_111,2026-09-10T16:20:31.355025,2026-09-10,"No rainfall data available for 2026-09-10 after fetch — excluded, not fabricated."
+AIZ_GRID_116,2026-09-10T16:20:31.355031,2026-09-10,"No rainfall data available for 2026-09-10 after fetch — excluded, not fabricated."
+AIZ_GRID_070,2026-09-10T16:20:31.355033,2026-09-10,"No rainfall data available for 2026-09-10 after fetch — excluded, not fabricated."
+AIZ_GRID_117,2026-09-10T16:20:31.355034,2026-09-10,"No rainfall data available for 2026-09-10 after fetch — excluded, not fabricated."
+AIZ_GRID_122,2026-09-10T16:20:31.355036,2026-09-10,"No rainfall data available for 2026-09-10 after fetch — excluded, not fabricated."
